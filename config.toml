@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "James Van Hinsbergh"
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
